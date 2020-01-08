@@ -1,5 +1,5 @@
 # DATA COLLECT
-
+# Face Detect system
 import cv2
 
 face_classifier=cv2.CascadeClassifier('C:/Users/Hp/PycharmProjects/Face_Recg/venv/Lib/site-packages/cv2/data/haarcascade_frontalface_default.xml')
